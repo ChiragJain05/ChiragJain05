@@ -36,8 +36,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/thejainchirag"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thejainchirag" /></a></p><br><br>
 <p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragjain05&show_icons=true&locale=en&layout=compact" alt="chiragjain05" /></p>
+<p><img align="center" height = "max-height" width = "max-width" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragjain05&show_icons=true&locale=en&layout=compact" alt="chiragjain05" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=chiragjain05&show_icons=true&locale=en" alt="chiragjain05" /></p>
 </p>
+
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragjain05&" alt="chiragjain05" /></p>
